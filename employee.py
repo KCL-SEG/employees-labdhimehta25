@@ -15,7 +15,7 @@ class Employee:
         pass
 
     def __str__(self):
-        return self.name
+        return self.description
 
 
 # Billie works on a monthly salary of 4000.  Their total pay is 4000.
